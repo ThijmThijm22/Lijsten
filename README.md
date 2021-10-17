@@ -1,6 +1,7 @@
 # groceries
 
-A new Flutter project.
+## weekend 16-17 oktober
+Begin van app: login met firebaseAuth. Je kan al dingen toevoegen aan een collectie in firestore. De collecties worden aangemaakt met je eigen fireAuth uid zodat jij alleen er aan kan. Ook de security instellingen van firestore aangepast.
 
 ## Getting Started
 
