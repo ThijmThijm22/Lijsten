@@ -1,7 +1,7 @@
 # groceries
 
 ## weekend 16-17 oktober
-Begin van app: login met firebaseAuth. Je kan al dingen toevoegen aan een collectie in firestore. De collecties worden aangemaakt met je eigen fireAuth uid zodat jij alleen er aan kan. Ook de security instellingen van firestore aangepast.
+Begin van app: login met firebaseAuth. Je kan al dingen toevoegen aan een collectie in firestore. De collecties worden aangemaakt met je eigen fireAuth uid zodat jij alleen er aan kan. Ook de security instellingen van firestore aangepast. Nog niet veel bezig geweest met de ui en ux want ik wil eerst de backend af hebben en dan pas de app mooier maken.
 
 ## Getting Started
 
